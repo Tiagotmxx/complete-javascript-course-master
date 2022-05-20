@@ -1,4 +1,4 @@
-/* //Importing module
+//Importing module
 // import { addToCart, totalPrice as price, tq } from './shoppingCart.js'; //Name import
 // addToCart('bread', 5);
 // console.log(price, tq);
@@ -19,6 +19,7 @@ add('apples', 2);
 
 console.log(cart);
 
+/*
 // const res = await fetch('https://jsonplaceholder.typicode.com/posts');
 // const data = await res.json();
 // console.log(data);
@@ -82,7 +83,8 @@ export.addToCart = function (product, quantity) {
 const {addToCart} require('./shoppingCart.js')
 */
 
-import cloneDeep from './node_modules/lodash-es/cloneDeep.js';
+// import cloneDeep from './node_modules/lodash-es/cloneDeep.js';
+import { cloneDeep } from 'lodash-es';
 
 const state = {
   cart: [
@@ -99,3 +101,31 @@ state.user.loggedIn = false;
 console.log(stateClone);
 
 console.log(stateDeepClone);
+
+if (module.hot) {
+  module.hot.accept();
+}
+
+class Person {
+  #greeting = 'Hey';
+  constructor(name) {
+    this.name = name;
+    console.log(`${this.#greeting}, ${this.name}`);
+  }
+}
+
+const jonas = new Person('Jonas');
+
+console.log(cart.find(el => el.quantity >= 2));
+console.log('test');
+
+Promise.resolve('TEST').then(x => console.log(x));
+
+import 'core-js/stable';
+
+//To reduce the bundle size we can use this
+// import 'core-js/stable/array/find';
+// import 'core-js/stable/promise';
+
+//Polifilling async functions
+import 'regenerator-runtime/runtime';
