@@ -555,9 +555,12 @@ const controlRecipes = async function() {
 };
 const controlSearchResults = async function() {
     try {
+        //1) Get search query
         const query = _searchViewJsDefault.default.getQuery();
         if (!query) return;
+        //2) Load search results
         await _modelJs.loadSearchResults(query);
+        //3) Render results
         console.log(_modelJs.state.search.results);
     } catch (err) {
         console.log(err);
@@ -2362,8 +2365,6 @@ parcelHelpers.defineInteropFlag(exports);
 var _iconsSvg = require("url:../../img/icons.svg");
 var _iconsSvgDefault = parcelHelpers.interopDefault(_iconsSvg);
 var _fractional = require("fractional");
-// console.log(Fraction);
-// alert('teste');
 class RecipeView {
     #parentElement = document.querySelector('.recipe');
     #data;
@@ -2814,7 +2815,12 @@ parcelHelpers.defineInteropFlag(exports);
 class SearchView {
     #parentEl = document.querySelector('.search');
     getQuery() {
-        return this.#parentEl.querySelector('.search__field').value;
+        const query = this.#parentEl.querySelector('.search__field').value;
+        this.#clearInput();
+        return query;
+    }
+     #clearInput() {
+        this.#parentEl.querySelector('.search__field').value = '';
     }
     addHandlerSearch(handler) {
         this.#parentEl.addEventListener('submit', function(e) {
@@ -2825,6 +2831,6 @@ class SearchView {
 }
 exports.default = new SearchView();
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["9GjUt","aenu9"], "aenu9", "parcelRequire3a11")
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["9GjUt","aenu9"], "aenu9", "parcelRequire08bc")
 
 //# sourceMappingURL=index.e37f48ea.js.map
