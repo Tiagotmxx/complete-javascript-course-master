@@ -23,31 +23,32 @@ class PaginationView extends View {
 
     //Page 1, and thera re other pages
     if (curPage === 1 && numPages > 1) {
-      return this._generateMarkupNxtBtn(curPage);
+      return this._generateMarkupNxtBtn(curPage, numPages);
     }
 
     //Last Page
     if (curPage === numPages && numPages > 1) {
-      return this._generateMarkupPrvBtn(curPage);
+      return this._generateMarkupPrvBtn(curPage, numPages);
     }
     //Other page
     if (curPage < numPages) {
       return ` ${this._generateMarkupPrvBtn(
-        curPage
-      )}${this._generateMarkupNxtBtn(curPage)}
+        curPage,
+        numPages
+      )}${this._generateMarkupNxtBtn(curPage, numPages)}
       `;
     }
     //Page1, and there are no other pages
     return '';
   }
 
-  _generateMarkupNxtBtn(curPage) {
+  _generateMarkupNxtBtn(curPage, numPages) {
     // const curPage = this._data.page;
     return `
       <button data-goto="${
         curPage + 1
       }" class="btn--inline pagination__btn--next">
-        <span>Page ${curPage + 1}</span>
+        <span>Page ${curPage + 1}/${numPages}</span>
         <svg class="search__icon">
           <use href="${icons}#icon-arrow-right"></use>
         </svg>
@@ -55,7 +56,7 @@ class PaginationView extends View {
     `;
   }
 
-  _generateMarkupPrvBtn(curPage) {
+  _generateMarkupPrvBtn(curPage, numPages) {
     return `
       <button data-goto="${
         curPage - 1
@@ -63,7 +64,7 @@ class PaginationView extends View {
         <svg class="search__icon">
           <use href="${icons}#icon-arrow-left"></use>
         </svg>
-        <span>Page ${curPage - 1}</span>
+        <span>Page ${curPage - 1}/${numPages}</span>
       </button>
     `;
   }

@@ -42,7 +42,7 @@
 147C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\array_mixins.js130616706680000000 0
 136C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\tr46\LICENSE.md131403622080000000 0
 163C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\string\virtual\fontcolor.js121436361000000000 0
-112C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist132985462360744039 1
+112C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist132987251518030950 1
 147C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\forkify-architecture-recipe-loading.png132886955210000000 0
 152C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\EE.js121436361000000000 0
 136C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\forkify-flowchart-part-2.png132886955210000000 0
@@ -70,7 +70,7 @@
 154C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\cosmiconfig\dist\loaders.d.ts.map121436361000000000 0
 134C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\data132978567003623613 1
 161C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\dom-serializer\lib\esm\foreignNames.d.ts121436361000000000 0
-120C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\package.json132985461285459122 0
+120C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\package.json132985468441453820 0
 155C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\instance\reverse.js121436361000000000 0
 129C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\escalade132978567039422770 1
 148C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\lines-and-columns\README.md121436361000000000 0
@@ -125,7 +125,7 @@
 161C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-dev-server\package.json132978567040676340 0
 154C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\lib\_to_primitive.js132978309230000000 0
 150C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\object\create.js121436361000000000 0
-124C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\src\js\config.js132984847151222248 0
+124C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\src\js\config.js132985499574930708 0
 154C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.promise.any.js121436361000000000 0
 135C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\domelementtype132978567039392493 1
 129C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\css-what132978567039343009 1
@@ -188,7 +188,7 @@
 150C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\string\search.js121436361000000000 0
 161C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-browser-hmr\package.json132978567040676340 0
 164C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\virtual\unique-by.js121436361000000000 0
-128C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\src\js\controller.js132985462358833429 0
+128C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\src\js\controller.js132987251515394267 0
 143C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\detect-libc\.npmignore131537414630000000 0
 144C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\function132978659620886086 1
 125C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\src\js\helpers.js132983813429854791 0
@@ -200,7 +200,7 @@
 160C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\source\async-return-type.d.ts121436361000000000 0
 157C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\typed-array\reduce.js121436361000000000 0
 170C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c121436361000000000 0
-123C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\src\js\model.js132984852903205315 0
+123C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\src\js\model.js132985732120922348 0
 148C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\terser\lib\equivalent-to.js121436361000000000 0
 151C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\symbol\replace.js121436361000000000 0
 147C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\utils\.eslintrc.js121436361000000000 0
@@ -227,7 +227,7 @@
 135C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\semver\LICENSE121436361000000000 0
 156C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\instance\index-of.js121436361000000000 0
 156C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\removeScriptElement.js121436361000000000 0
-138C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\src\js\views\paginationView.js132984881711817798 0
+138C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\src\js\views\paginationView.js132985504455807019 0
 152C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\instance\bind.js121436361000000000 0
 146C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\lib\types.js121436361000000000 0
 160C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\src\ParcelConfig.schema.js121436361000000000 0
@@ -247,7 +247,7 @@
 145C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\node-gyp-build\README.md121436361000000000 0
 157C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.symbol.replace.js121436361000000000 0
 235C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm\package.json121436361000000000 0
-134C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js132984831321557549 0
+134C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js132985743513496398 0
 143C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\lib\svgo\jsAPI.js121436361000000000 0
 144C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\types\unsafe.js121436361000000000 0
 152C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\AE.js121436361000000000 0
@@ -679,7 +679,7 @@
 144C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\weak-set132978659612109459 1
 148C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\supports-color\package.json132978567042544329 0
 163C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.typed-array.includes.js121436361000000000 0
-131C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css132984871725969718 0
+131C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css132985573368884481 0
 135C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\supports-color132978567043749284 1
 153C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\instance\match-all.js121436361000000000 0
 141C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\browser\pair.js121436361000000000 0
@@ -1267,7 +1267,7 @@
 142C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\weak-map132978659633140030 1
 155C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\typed-array\join.js121436361000000000 0
 157C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.map.update.js121436361000000000 0
-131C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg132984871726089394 0
+131C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg132985573368864529 0
 148C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\utils\src\config.js121436361000000000 0
 146C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\utility-types\SECURITY.md121436361000000000 0
 144C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\terser\tools\props.html121436361000000000 0
@@ -1315,7 +1315,7 @@
 143C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\package.json132978567042510178 0
 150C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\ordered-binary\dist\index.cjs121436361000000000 0
 161C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.map.map-values.js121436361000000000 0
-133C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png132984871726418511 0
+133C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png132985573369393117 0
 150C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\css\definitions.json121436361000000000 0
 205C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\main.js121436361000000000 0
 162C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\typed-array\int16-array.js121436361000000000 0
@@ -3591,7 +3591,7 @@
 137C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\index.js121436361000000000 0
 162C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\import-maps.js121436361000000000 0
 138C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\README.md121436361000000000 0
-134C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map132985462360714120 0
+134C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map132987251517991328 0
 159C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\string\virtual\pad-start.js121436361000000000 0
 151C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\web\dom-collections.js121436361000000000 0
 163C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-react-refresh-wrap\src132978566980918713 1
@@ -4169,7 +4169,7 @@
 163C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.object.define-setter.js121436361000000000 0
 162C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.object.from-entries.js121436361000000000 0
 178C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.object.get-own-property-descriptors.js121436361000000000 0
-123C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\index.html132984871725840060 0
+123C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\index.html132985573369582600 0
 174C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.object.get-own-property-symbols.js121436361000000000 0
 169C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.typed-array.from-async.js121436361000000000 0
 157C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.object.has-own.js121436361000000000 0
@@ -7528,8 +7528,8 @@
 134C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\svgo.cmd132978567045764625 0
 132C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\terser132978567045811636 0
 136C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\terser.ps1132978567045811636 0
-131C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg132984871726089394 0
+131C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg132985573368884481 0
 130C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\index.62406edb.js132978570310292090 0
-130C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js132985462360684199 0
-135C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map132984871725969718 0
-130C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png132984871726448435 0
+130C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js132987251517951696 0
+135C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map132985573368884481 0
+130C:\Users\Tiago Machado\Documents\coding\coding_lessons\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png132985573369413058 0
